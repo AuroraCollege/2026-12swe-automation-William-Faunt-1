@@ -12,7 +12,7 @@
   "workbench.editorAssociations": {
     "*.md": "vscode.markdown.preview.editor"
   },
-  "workbench.colorTheme": "Abyssal Jade",
+  "workbench.colorTheme": "Rui Jade",
   "workbench.iconTheme": "icons",
   "editor.fontFamily": "JetBrains Mono",
   "terminal.integrated.fontFamily": "monospace"
